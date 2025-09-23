@@ -9,7 +9,7 @@
 
 <!-- Texto digitando -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a78bfa&width=800&size=24&center=true&vCenter=true&lines=Graduada+em+Analise+e+Desenvolvimento+de+Sistemas;Focada+em+Desenvolvimento+Web+e+Mobile;Apaixonada+por+Tecnologia+e+Inovacao;Construindo+um+futuro+melhor+atraves+da+programacao" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a78bfa&width=800&size=24&center=true&vCenter=true&lines=Graduada+em+Análise+e+Desenvolvimento+de+Sistemas;Focada+em+Desenvolvimento+Web+e+Mobile;Apaixonada+por+Tecnologia+e+Inovação;Construindo+um+futuro+melhor+atraves+da+programação" alt="Typing SVG"/>
 </div>
 
 

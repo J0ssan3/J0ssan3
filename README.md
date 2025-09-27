@@ -68,16 +68,8 @@
  
 </details>
 
----
 
-<!-- Contador de visitas -->
-<div align="center">
-  <p>
-    <img 
-      src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjossanecardoso&s=30&c=a78bfa&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A&ta=" 
-      alt="Contador de visitas do perfil" />
-  </p>
-</div>
+
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=140&section=footer"/>
